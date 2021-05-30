@@ -5,15 +5,15 @@
 ###  使用方法
 - 第一步：npm下载zh-address-parse
 ```sh
-`npm i zh-address-parse -s
+npm i zh-address-parse -s
 ```
-`- 第二步：部署nodejs，默认端口8055，可自行修改
+- 第二步：部署nodejs，默认端口8055，可自行修改
 ```sh
-`node app.js
+node app.js
 ```
-`- 第三步：部署成功后，接口使用
+- 第三步：部署成功后，接口使用
 ```
-`[http://localhost:8055/parse?address=广西壮族自治区柳州市柳北区跃进路42号4栋20楼][1]
+[http://localhost:8055/parse?address=广西壮族自治区柳州市柳北区跃进路42号4栋20楼][1]
 调用成功后：会返回结果
 ````
 
