@@ -13,8 +13,6 @@ node app.js
 ```
 - 第三步：部署成功后，接口使用
 ```
-[http://localhost:8055/parse?address=广西壮族自治区柳州市柳北区跃进路42号4栋20楼][1]
+http://localhost:8055/parse?address=广西壮族自治区柳州市柳北区跃进路42号4栋20楼
 调用成功后：会返回结果
 ````
-
-[1]:	http://localhost:8055/parse?address=%E5%B9%BF%E8%A5%BF%E5%A3%AE%E6%97%8F%E8%87%AA%E6%B2%BB%E5%8C%BA%E6%9F%B3%E5%B7%9E%E5%B8%82%E6%9F%B3%E5%8C%97%E5%8C%BA%E8%B7%83%E8%BF%9B%E8%B7%AF42%E5%8F%B74%E6%A0%8B20%E6%A5%BC
