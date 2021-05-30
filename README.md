@@ -7,7 +7,7 @@
 ```sh
 npm i zh-address-parse -s
 ```
-- 第二步：部署nodejs，默认端口8055，可自行修改
+- 第二步：部署nodejs，默认端口8055
 ```sh
 node app.js
 ```
